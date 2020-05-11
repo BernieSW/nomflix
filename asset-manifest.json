@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/nomflix/static/js/main.6a366716.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.6a366716.chunk.js.map",
+    "runtime-main.js": "/nomflix/static/js/runtime-main.a658bcd6.js",
+    "runtime-main.js.map": "/nomflix/static/js/runtime-main.a658bcd6.js.map",
+    "static/css/2.365b277a.chunk.css": "/nomflix/static/css/2.365b277a.chunk.css",
+    "static/js/2.dfe0d05a.chunk.js": "/nomflix/static/js/2.dfe0d05a.chunk.js",
+    "static/js/2.dfe0d05a.chunk.js.map": "/nomflix/static/js/2.dfe0d05a.chunk.js.map",
+    "index.html": "/nomflix/index.html",
+    "precache-manifest.1b6a2ddb15df4541b663418391e04b59.js": "/nomflix/precache-manifest.1b6a2ddb15df4541b663418391e04b59.js",
+    "service-worker.js": "/nomflix/service-worker.js",
+    "static/css/2.365b277a.chunk.css.map": "/nomflix/static/css/2.365b277a.chunk.css.map",
+    "static/js/2.dfe0d05a.chunk.js.LICENSE.txt": "/nomflix/static/js/2.dfe0d05a.chunk.js.LICENSE.txt",
+    "static/media/LoadingImg2.gif": "/nomflix/static/media/LoadingImg2.d05223f7.gif",
+    "static/media/NoneImage.JPG": "/nomflix/static/media/NoneImage.0eaafba0.JPG",
+    "static/media/font-awesome.min.css": "/nomflix/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a658bcd6.js",
+    "static/css/2.365b277a.chunk.css",
+    "static/js/2.dfe0d05a.chunk.js",
+    "static/js/main.6a366716.chunk.js"
+  ]
+}
